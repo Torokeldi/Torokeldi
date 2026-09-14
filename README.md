@@ -12,11 +12,12 @@
 | **Redux**                 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRlH5x8oBQAqXxQBNwTIGAnoBBrjEWHP2pw&s" width="30" height="30" /> |
 | **Redux Toolkit**         | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVmoyCSqToXN1bprp6AcauTS21rzskH3Z2Q&s" width="30" height="30" /> |
 | **Next.js**               | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4JKa0zpTz9cOgOmsWy-2op5R7vQXQiPmfg&s" width="30" height="30" />  |
+| **Django**            | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cue-zvVNPad5cJyzYoEptF_jwLUNMCxJSODtAR-2yA&s=10" width="30" height="30" />  
 
 | Other Technologies    |                                                                                                                |
 |-----------------------|----------------------------------------------------------------------------------------------------------------|
 | **DOM**               | <img src="https://simg.nicepng.com/png/small/80-803492_how-to-capture-an-image-from-a-dom.png" width="30" height="30" /> |
 | **Tailwind CSS**       | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUHLwarexBXV1Mm6WVc6s3zm7zDaL7V3ZXw&s" width="30" height="30" />   |
-| **Ant Design**        | <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-ncocfg8e.png" width="30" height="30" />  |
+| **Ant Design**        | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPh-zw97uTMJWH-6hnzlPDYyP3vD0ekd4XAX0HijnZnw&s=10" width="30" height="30" />  |
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovEiSw8rQFuFN29swsVJwnqY7ijwtzFenRw&s" width="370" height="360" />
